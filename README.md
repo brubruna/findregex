@@ -8,8 +8,6 @@ If a line matches, it is print alongside the file name and the line number for e
 ### Requirements
 
 * python version: 3.6
-* python argparse
-* python re
 
 
 ## Using the script
