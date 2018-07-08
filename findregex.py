@@ -2,12 +2,12 @@
 
 
 ###############################################################################
-#     																		  #
-#     							findregex.py							      #
-# 																			  #
-# 	author: Bruna Bonguardo													  #
-# 	date: Jul-08-2018														  #
-# 																			  #
+#                                                                             #
+#     							findregex.py                                  #
+#                                                                             #
+# 	author: Bruna Bonguardo                                                   #
+# 	date: Jul-08-2018                                                         #
+#                                                                             #
 # 	version: 1.0															  #
 # 	python version: 3.6														  #
 # 																			  #
@@ -20,7 +20,7 @@
 #                containing a match to a regular expression pattern.          #
 #                If a line matches, it is print alongside the file name and   #
 #                the line number for every match.                             #
-# 																			  #
+#                                                                             #
 # 	positional arguments:													  #
 #   	infile            the name of the file(s) to search.			      #
 #   	regex             the regular expression.							  #
